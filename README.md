@@ -1,4 +1,4 @@
-![MasterHead](https://wonderfulengineering.com/wp-content/uploads/2014/04/code-wallpaper-20.jpg)
+![MasterHead](https://wallpapers.com/images/hd/pure-black-background-with-dark-face-rkryds04rsmmqv3n.jpg)
 <h1 align="center">Hi 👋, I'm Ajay Chaurasiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
