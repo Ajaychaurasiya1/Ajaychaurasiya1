@@ -1,30 +1,130 @@
-![MasterHead](https://wallpapers.com/images/hd/pure-black-background-with-dark-face-rkryds04rsmmqv3n.jpg)
+<!-- ================== 3D HEADER ================== -->
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ajay%20Chaurasiya&fontSize=40&fontColor=ffffff&animation=fadeIn" /> -->
+
 <h1 align="center">Hi 👋, I'm Ajay Chaurasiya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | AI Tools Builder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaychaurasiya1&label=Profile%20views&color=0e75b6&style=flat" alt="ajaychaurasiya1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaychaurasiya1" alt="ajaychaurasiya1" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ajaychaurasiy_a" target="blank"><img src="https://img.shields.io/twitter/follow/ajaychaurasiy_a?logo=twitter&style=for-the-badge" alt="ajaychaurasiy_a" /></a> </p>
-
-- 🌱 I’m currently learning **Html, CSS, JavaScript, C-language**
-
-- 📫 How to reach me **ajaychaurasiya44440@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ajaychaurasiy_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajaychaurasiy_a" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ajaychaurasiya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajaychaurasiya1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ajaychaurasiya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajaychaurasiya1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ajaychaurasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ajaychaurasiya" height="30" width="40" /></a>
+<!-- ================== TYPING ================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+AI+Tools;Open+to+Opportunities;Always+Learning+New+Tech&center=true&width=600&height=50">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<!-- ================== 3D AVATAR ================== -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="120" style="border-radius:50%" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaychaurasiya1&show_icons=true&locale=en&layout=compact" alt="ajaychaurasiya1" /></p>
+<!-- ================== STATS BADGES ================== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ajaychaurasiya1&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/ajaychaurasiya1?style=social" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaychaurasiya1&show_icons=true&locale=en" alt="ajaychaurasiya1" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaychaurasiya1&" alt="ajaychaurasiya1" /></p>
+# 🧑‍💻 About Me
+
+👋 A passionate **Full Stack Developer** who enjoys building scalable, real-world web applications and AI-powered tools.
+
+💼 Currently working at **Jupiter AI Labs**, where I develop internal tools, dashboards, and systems that solve practical business problems.
+
+🚀 I specialize in the **MERN Stack (MongoDB, Express, React, Node.js)** and focus on writing clean, efficient, and production-ready code.
+
+🧠 I’m continuously improving my skills in **System Design, Backend Architecture, and Performance Optimization** to build applications that scale.
+
+🔥 I love turning ideas into products especially tools related to **AI, automation, and developer productivity**.
+
+---
+
+# 🚀 Currently Working On
+
+- 🔹 Build **full-stack web applications** from scratch  
+- 🔹 Develop **AI-powered dashboards & internal tools**  
+- 🔹 Work with **APIs, databases, and scalable backend systems**  
+- 🔹 Optimize applications for **performance and usability**
+
+
+---
+
+# 🧠 Developer Mind Loop
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Think+→+Build+→+Debug+→+Optimize+→+Repeat;Code+→+Test+→+Deploy+→+Scale;Learn+→+Apply+→+Improve&center=true&width=600&height=50">
+</p>
+
+# ⚡ Currently Coding & Building
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+AI+Video+Analysis+Tool;Developing+MERN+Stack+Projects;Learning+System+Design;Improving+Backend+Skills;Preparing+for+Top+Tech+Companies&center=true&width=700&height=50">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajaychaurasiya1&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajaychaurasiya1&theme=github_dark" />
+</p>
+
+# 🔥 Dev Energy
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajaychaurasiya1&theme=github_dark&utcOffset=5.5" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Coding+Late+Nights...;Debugging+Like+a+Pro...;Shipping+Features...;Leveling+Up+Daily&center=true&width=600&height=40" />
+</p>
+
+---
+
+
+
+# 🛠️ Tech Stack (Animated Icons)
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,docker,git,cpp,c" />
+</p>
+
+---
+
+# 📊 GitHub Stats (Animated Feel)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajaychaurasiya1&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaychaurasiya1&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaychaurasiya1&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+# 📈 3D Contribution Graph (BEST REPLACEMENT)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajaychaurasiya1&theme=github_dark" />
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ajaychaurasiya1&theme=onedark&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/ajaychaurasiya1"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://twitter.com/ajaychaurasiy_a"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+<a href="mailto:ajaychaurasiya44440@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+</p>
+
+---
+
+# 💻 Dev Quote
+
+```diff
++ Code. Build. Scale. Repeat 🚀
