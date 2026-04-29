@@ -77,15 +77,15 @@
 
 
 
-# 🛠️ Tech Stack (Animated Icons)
+# 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,docker,git,cpp,c" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,docker,git,cpp,c,bootstrap,docker,fastapi,figma,firebase,gcp,github,mysql,nextjs,netlify,nginx,npm,postman,py,redis,redux,regex,sublime,vercel,visualstudio,vite" />
 </p>
 
 ---
 
-# 📊 GitHub Stats (Animated Feel)
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ajaychaurasiya1&show_icons=true&theme=radical&hide_border=true&count_private=true" />
@@ -98,7 +98,7 @@
 
 ---
 
-# 📈 3D Contribution Graph (BEST REPLACEMENT)
+# 📈 3D Contribution Graph
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajaychaurasiya1&theme=github_dark" />
